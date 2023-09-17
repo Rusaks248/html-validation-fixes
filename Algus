@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+       <head>
+
+       <title>Tiina tutvustus</title>
+
+       </head>
+
+<body>
+
+<h1>Mina ja HTML</h1>
+
+<p>Olen Tiina arvutiteaduse instituudist. Juhendan veebilehtede kursuse esimest osa.</p>
+
+<p>Selle kursusega olen seotud aastast 1998 kui alustasime keskkonnaga WebCT.</p>
+
+<h2>Olen kasutanud lehtede koostamiseks</h2>
+
+<ul>
+
+<li> toimetit <i>Netscape Composer</i>, </li>
+
+<li> toimetit <i>EditPad Lite</i>, </li>
+
+<li> toimetit <i>NotePad </i>, </li>
+
+<li> toimetit <i>Codepen</i>, </li>
+
+<li> toimetit <i>Weebly</i>, </li>
+
+</ul>
+
+</body>
+
+</html>
